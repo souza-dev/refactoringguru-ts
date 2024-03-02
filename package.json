@@ -1,0 +1,10 @@
+{
+  "name": "Factory",
+  "version": "1.0.0",
+  "description": "Implementando o Design Pattern Factory no NodeJS com TS. ",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  }
+}
